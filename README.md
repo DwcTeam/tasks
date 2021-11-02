@@ -28,7 +28,7 @@ task.start(text="lol")
 ```
 
 ## Links
-- [Official Discord Server](https://discord.gg/VX5F54YNuy`)
+- [Official Discord Server](https://discord.gg/VX5F54YNuy)
 
 ## Note
 if you use my package please give me start 😭😭 
